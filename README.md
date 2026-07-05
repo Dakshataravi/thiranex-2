@@ -1,2 +1,8 @@
-# thiranex-2
-2nd proj
+# Predictive Modeling Using Machine Learning
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Run:
+python predictive_model.py
